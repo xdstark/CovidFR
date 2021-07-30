@@ -1,0 +1,1 @@
+Show French Covid Trend on an E-ink screen using Raspberry Pi Zero.
